@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  aq1:
+    build: .
+    command: npm run aq1
+  aq2:
+    build: .
+    command: npm run aq2
+  # Adicione mais serviços para aq3, zap1, etc.

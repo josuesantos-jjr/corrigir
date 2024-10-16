@@ -1,0 +1,32 @@
+{
+  "sessionName": {
+    "client": "client2",
+    "status": "inChat",
+    "phoneNumber": null
+  },
+  "Whats1": {
+    "client": "client2",
+    "status": "disconnected",
+    "phoneNumber": null
+  },
+  "Whats2": {
+    "client": "client2",
+    "status": "disconnected",
+    "phoneNumber": null
+  },
+  "aq3": {
+    "client": "client2",
+    "status": "inChat",
+    "phoneNumber": null
+  },
+  "aq1": {
+    "client": "client2",
+    "status": "inChat",
+    "phoneNumber": null
+  },
+  "aq2": {
+    "client": "client2",
+    "status": "inChat",
+    "phoneNumber": null
+  }
+}
